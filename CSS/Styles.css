@@ -1,0 +1,18 @@
+body{background-color: #0B2447;} 
+hr{border: none;
+border-color: darkgoldenrod;
+border-width: 5px;
+width: 5%;
+border-top-style:dotted ;}
+h1{
+    color: #A5D7E8;
+}
+h3{
+    color: #f0f2f9;
+}
+img{
+    border: thick;
+    border-width: 5px;
+    border-color: #e6095d;
+
+}
